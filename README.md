@@ -1,4 +1,4 @@
-# E-Commerce Application ::
+# E-Commerce Application :
 
 Welcome to the E-Commerce project! This is an E-Commerce web application designed to provide an enjoyable shopping experience for customers. As a student developer, I'll guide you through the key functions and properties used in this application.
 
